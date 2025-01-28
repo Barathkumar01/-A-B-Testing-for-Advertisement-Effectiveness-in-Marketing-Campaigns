@@ -15,4 +15,15 @@ This project focuses on conducting an A/B test to assess the effectiveness of ta
 
 ## Technologies Used
 - **Data Analysis**: Python (Pandas, NumPy, Scipy), Jupyter Notebook
-- **Statistical 
+- **Statistical Testing**: t-test, chi-square test
+- **Data Visualization**: Matplotlib, Seaborn
+
+## Impact
+- **Conversion Rate Increase**: Identified a significant improvement in conversion rates for the ad group.
+- **Revenue Uplift**: Estimated a **$700,150 revenue increase** from the targeted ad campaign.
+- **Insights**: Provided actionable insights for optimizing future ad campaigns and marketing strategies.
+
+## Files Included
+- `marketing_AB.csv`: The dataset used for the A/B test containing user interaction data.
+- `A_B_Testing_Marketing.ipynb`: Jupyter Notebook with the code for data processing, statistical analysis, and results visualization.
+
